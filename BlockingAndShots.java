@@ -1,7 +1,7 @@
 /**
  * @author: Alexandra Shope
  * @since: June 1, 2018
- * This program builds a Hidden Markov Model with movie scene data
+ * This program uses a Hidden Markov Model and movie scene data to predict desired editing sequences
  * Dr. William Bares contributed to this code. 
  */
 
